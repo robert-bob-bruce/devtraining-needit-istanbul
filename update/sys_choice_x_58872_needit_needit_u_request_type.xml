@@ -5,6 +5,25 @@
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Facilites</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-05 08:11:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9ab3e0ddbf73200897ef00fbf96197c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 08:44:12</sys_updated_on>
+            <value>facilites</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Human Resources</label>
             <language>en</language>
@@ -25,19 +44,19 @@
             <element>u_request_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Facilites</label>
+            <label>Facilities</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>1</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-05 08:11:56</sys_created_on>
+            <sys_created_on>2017-07-18 08:44:12</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b9ab3e0ddbf73200897ef00fbf96197c</sys_id>
+            <sys_id>5dbf7511db0c0300897ef00fbf961966</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-05 08:11:56</sys_updated_on>
-            <value>facilites</value>
+            <sys_updated_on>2017-07-18 08:44:12</sys_updated_on>
+            <value>facilities</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
